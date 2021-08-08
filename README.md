@@ -1,4 +1,4 @@
-Integrantes
+<b>Integrantes</b>
 Fernández Mirta G.
 Barrios Walter G.
 
