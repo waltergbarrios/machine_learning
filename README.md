@@ -11,7 +11,7 @@
 <li>Sklearn Python</li>
 <li>Libretas Jupyter</li>
 <li>Dataset de comentarios de usuarios de compras en Amazon.</li>
-<li>Se opt&oacute; por un enfoque supervisado, utilizando algoritmo k-Nearest Neighbor (KNN)</li>
+<li>Se opt&oacute; por el algoritmo de regresion lineal</li>
 </ul>
 <p></p>
 <p><strong>Resultado esperado </strong></p>
